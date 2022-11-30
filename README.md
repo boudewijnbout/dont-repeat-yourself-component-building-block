@@ -1,9 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# CMD Midterm component
 
-# Naam deeltaak
-
+![image](https://user-images.githubusercontent.com/45170095/204858797-7ef9fb1b-270c-4104-98e7-b522aa3648d2.png)
 
 ## Licentie
 
